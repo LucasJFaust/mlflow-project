@@ -1,0 +1,15 @@
+artifact_uri: file:///home/faust/Projetos/DNC/Mes-06/mlflow-project/notebooks/mlruns/0/779729882cac4c83a6333228d0f06939/artifacts
+end_time: 1716581892554
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 779729882cac4c83a6333228d0f06939
+run_name: rambunctious-gnu-342
+run_uuid: 779729882cac4c83a6333228d0f06939
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716581890865
+status: 3
+tags: []
+user_id: faust

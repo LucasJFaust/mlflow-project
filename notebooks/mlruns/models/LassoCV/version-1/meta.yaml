@@ -1,0 +1,12 @@
+creation_timestamp: 1716581892552
+current_stage: None
+description: null
+last_updated_timestamp: 1716581892552
+name: LassoCV
+run_id: 779729882cac4c83a6333228d0f06939
+run_link: null
+source: file:///home/faust/Projetos/DNC/Mes-06/mlflow-project/notebooks/mlruns/0/779729882cac4c83a6333228d0f06939/artifacts/model_pipeline
+status: READY
+status_message: null
+user_id: null
+version: 1

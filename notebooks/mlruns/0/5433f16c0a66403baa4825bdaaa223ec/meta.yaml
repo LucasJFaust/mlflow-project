@@ -1,0 +1,15 @@
+artifact_uri: file:///home/faust/Projetos/DNC/Mes-06/mlflow-project/notebooks/mlruns/0/5433f16c0a66403baa4825bdaaa223ec/artifacts
+end_time: 1716581896430
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5433f16c0a66403baa4825bdaaa223ec
+run_name: debonair-newt-407
+run_uuid: 5433f16c0a66403baa4825bdaaa223ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716581894480
+status: 3
+tags: []
+user_id: faust

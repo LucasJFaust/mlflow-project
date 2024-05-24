@@ -1,0 +1,15 @@
+artifact_uri: file:///home/faust/Projetos/DNC/Mes-06/mlflow-project/notebooks/mlruns/0/327a284080944238b576e1e1c447acec/artifacts
+end_time: 1716581898552
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 327a284080944238b576e1e1c447acec
+run_name: orderly-mole-231
+run_uuid: 327a284080944238b576e1e1c447acec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716581896524
+status: 3
+tags: []
+user_id: faust
