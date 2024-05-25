@@ -1,0 +1,15 @@
+artifact_uri: file:///home/faust/Projetos/DNC/Mes-06/mlflow-project/notebooks/mlruns/0/ead7f7651bb94d37ad15fbaa7dacde3a/artifacts
+end_time: 1716659654204
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ead7f7651bb94d37ad15fbaa7dacde3a
+run_name: upset-lamb-705
+run_uuid: ead7f7651bb94d37ad15fbaa7dacde3a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716659652531
+status: 3
+tags: []
+user_id: faust

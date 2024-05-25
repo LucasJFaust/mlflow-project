@@ -1,0 +1,12 @@
+creation_timestamp: 1716659649420
+current_stage: None
+description: null
+last_updated_timestamp: 1716659649420
+name: Dummy
+run_id: a51ec14fbbc64cc988b0279ac2bec978
+run_link: null
+source: file:///home/faust/Projetos/DNC/Mes-06/mlflow-project/notebooks/mlruns/0/a51ec14fbbc64cc988b0279ac2bec978/artifacts/model_pipeline
+status: READY
+status_message: null
+user_id: null
+version: 2

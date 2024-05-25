@@ -1,0 +1,12 @@
+creation_timestamp: 1716659658464
+current_stage: None
+description: null
+last_updated_timestamp: 1716659658464
+name: GradientBoostingRegressor
+run_id: c2d76edf6dc04f118138fe1873b43b65
+run_link: null
+source: file:///home/faust/Projetos/DNC/Mes-06/mlflow-project/notebooks/mlruns/0/c2d76edf6dc04f118138fe1873b43b65/artifacts/model_pipeline
+status: READY
+status_message: null
+user_id: null
+version: 2

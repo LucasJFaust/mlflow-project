@@ -1,0 +1,12 @@
+creation_timestamp: 1716659650960
+current_stage: None
+description: null
+last_updated_timestamp: 1716659650960
+name: LinearRegression
+run_id: 1f0cbc23f9d14ef391cc9afd0b3e93cf
+run_link: null
+source: file:///home/faust/Projetos/DNC/Mes-06/mlflow-project/notebooks/mlruns/0/1f0cbc23f9d14ef391cc9afd0b3e93cf/artifacts/model_pipeline
+status: READY
+status_message: null
+user_id: null
+version: 2

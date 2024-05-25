@@ -1,0 +1,15 @@
+artifact_uri: file:///home/faust/Projetos/DNC/Mes-06/mlflow-project/notebooks/mlruns/0/8b8c8deb78f54450b16c4d44c80f5289/artifacts
+end_time: 1716660879211
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8b8c8deb78f54450b16c4d44c80f5289
+run_name: peaceful-swan-623
+run_uuid: 8b8c8deb78f54450b16c4d44c80f5289
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716660877101
+status: 4
+tags: []
+user_id: faust

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/faust/Projetos/DNC/Mes-06/mlflow-project/notebooks/mlruns/0/c2d76edf6dc04f118138fe1873b43b65/artifacts
+end_time: 1716659658466
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c2d76edf6dc04f118138fe1873b43b65
+run_name: useful-bear-723
+run_uuid: c2d76edf6dc04f118138fe1873b43b65
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716659656683
+status: 3
+tags: []
+user_id: faust

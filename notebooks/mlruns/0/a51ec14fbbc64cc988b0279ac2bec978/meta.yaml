@@ -1,0 +1,15 @@
+artifact_uri: file:///home/faust/Projetos/DNC/Mes-06/mlflow-project/notebooks/mlruns/0/a51ec14fbbc64cc988b0279ac2bec978/artifacts
+end_time: 1716659649422
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a51ec14fbbc64cc988b0279ac2bec978
+run_name: unruly-skink-739
+run_uuid: a51ec14fbbc64cc988b0279ac2bec978
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716659647425
+status: 3
+tags: []
+user_id: faust
